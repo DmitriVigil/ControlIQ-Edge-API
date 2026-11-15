@@ -1,6 +1,6 @@
 # ControlIQ Edge API & Telemetry Dashboard (Prototype)
 
-🟢 **Live Interactive Demo:** [Click here to view the live dashboard](https://YOUR-RENDER-URL.onrender.com)
+🟢 **Live Interactive Demo:** [Click here to view the live dashboard](https://controliq-edge-api-demo.onrender.com/)
 
 A lightweight proof-of-concept demonstrating edge telemetry simulation, REST API state management, and real-time data visualization. Built as a technical showcase for **Systems Automation, Inc. (SAI)**, this project illustrates how I approach building automation concepts (such as BACnet polling, HVAC setpoints, and thermal drift monitoring) using my current primary tech stack.
 
